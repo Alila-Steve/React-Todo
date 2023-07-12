@@ -1,3 +1,36 @@
+Sure, here's a sample description for this application that you could use for your GitHub repository:
+
+---
+# React Todo List with Context API and Local Storage
+
+This is a simple yet advanced Todo List application built with React. It showcases the use of modern React features and techniques including React Hooks, Context API, and local storage for persistence. The application is styled using Bootstrap, providing a clean and responsive user interface.
+
+## Key Features
+
+1. **Add Todo Tasks:** Users can add their tasks by entering the task in the input field and clicking the 'Add' button or pressing enter.
+
+2. **View Todo Tasks:** All the tasks added by the user are listed in a neat table format. The table displays the task, its status, and actions that can be performed on it.
+
+3. **Mark Tasks as Completed/Uncompleted:** Users can toggle the completion status of their tasks by clicking the 'Mark as Finished'/'Mark as Unfinished' button.
+
+4. **Delete Tasks:** Users can delete any task by clicking on the 'Delete' button.
+
+5. **Persistence:** The tasks are stored in the browser's local storage. This means that even if the user closes or refreshes the page, the tasks remain intact.
+
+6. **Empty State:** When there are no tasks, the application displays a friendly message saying "No tasks Added".
+
+7. **React Router:** The application uses React Router for navigation. There are two routes - one for adding tasks and the other for viewing the list of tasks.
+
+## Technologies Used
+
+- **React JS:** This project is built with React, a popular JavaScript library for building user interfaces.
+- **React Hooks:** This project utilizes React Hooks (useState, useContext, useReducer) for managing state and context in a functional component.
+- **React Context API:** Context API is used for state management, providing a way to pass data through the component tree without having to pass props down manually at every level.
+- **Local Storage:** Local Storage API is used to persist the tasks data in the browser even after page refreshes.
+- **React Router:** React Router is used for handling navigation in the application.
+- **Bootstrap:** Bootstrap is used for styling the components in a responsive manner.
+
+---
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
